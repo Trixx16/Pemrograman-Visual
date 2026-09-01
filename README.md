@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Halo! Saya **Aditya Fahreza**, mahasiswa Program Studi **D-III Teknik Informatika, Fakultas Vokasi, Universitas Sumatera Utara**.
+Halo! Saya **Sultan Tri Ananda**, mahasiswa Program Studi **D-III Teknik Informatika, Fakultas Vokasi, Universitas Sumatera Utara**.
 
 Repository ini saya buat sebagai bagian dari perjalanan pembelajaran saya dalam mengikuti mata kuliah **Praktikum Pemrograman Visual** pada Semester 5.
 
