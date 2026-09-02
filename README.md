@@ -22,8 +22,8 @@ Repository ini menjadi tempat saya untuk **mencatat, menyimpan, dan mendokumenta
 
 | 📌 Information | 📝 Details |
 |:---|:---|
-| 👤 **Nama** | Aditya Fahreza |
-| 🆔 **NIM** | 241712013 |
+| 👤 **Nama** | Sultan Tri Ananda|
+| 🆔 **NIM** | 241712003 |
 | 🏫 **KOM** | A'1 |
 | 💻 **Program Studi** | D-III Teknik Informatika |
 | 🎓 **Fakultas** | Fakultas Vokasi |
